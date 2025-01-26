@@ -9,6 +9,8 @@ Die gelbe LED bei der Fussgängerampel steht für die 'Signal kommt'-Anzeige.
 
 Ein Video zur Funktion der Ampel findet sich unter [hier](https://photos.app.goo.gl/s7xiUNaMm1jNQMFY7).
 
+![](./calliope-traffic-lights.png)
+
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
