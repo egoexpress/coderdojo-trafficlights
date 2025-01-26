@@ -11,6 +11,8 @@ Ein Video zur Funktion der Ampel findet sich unter [hier](https://photos.app.goo
 
 ![](./calliope-traffic-lights.png)
 
+![](./coderdojo-trafficlights.png)
+
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
